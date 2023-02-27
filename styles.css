@@ -1,2 +1,16 @@
-
+thead{
+	text-align:center;
+	background:red;
+	color:white;
+}
+tr,td,th{
+	border:1px solid black;
+}
+table{
+	width:90%;
+	border-collapse: collapse;
+}
+td{
+	text-align:center;
+}
 /* Your CSS Code here. */
